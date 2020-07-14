@@ -2,3 +2,4 @@ terminaltables
 huepy
 netifaces
 termcolor
+scapy
